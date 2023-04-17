@@ -5,43 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8704ea09-1b50-4574-86a4-8600abda3c97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/help/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/subscriber/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/subscriber/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/browser.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/img/import-unit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/img/include-directory-path.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/img/internet-options-in-ie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/img/internet-options-ok.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/img/internet-options-security-tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/img/internet-options.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/importing-units.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/registering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/help/system-requirements/uploading-documents.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/odf-high-res.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/2019-05-28-first-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/2019-05-29-long-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/2021-08-01-mdx-blog-post.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/2021-08-26-welcome/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/authors.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/congratulations.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/create-a-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/create-a-document.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/create-a-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/deploy-your-site.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-basics/markdown-features.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/img/docsVersionDropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/img/localeDropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/manage-docs-versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/translate-your-site.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/favicon.ico" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681754883580</updated>
       <workItem from="1681754886175" duration="2312000" />
-      <workItem from="1681757219798" duration="6095000" />
+      <workItem from="1681757219798" duration="6966000" />
     </task>
     <servers />
   </component>
