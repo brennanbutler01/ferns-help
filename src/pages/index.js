@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-          <img alt={'Oregon Department of Forestry Logo image - A yellow and green badge with agency name, some trees and an outline of Oregon'} src={'img/odf-high-res.png'} width={325} height={325}/>
+          <img alt={'Oregon Department of Forestry Logo image - A yellow and green badge with agency name, some trees and an outline of Oregon'} src={'img/odf-high-res.png'} width={225} height={225}/>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>

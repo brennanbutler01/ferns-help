@@ -4,46 +4,39 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Notifications of Operations',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          You must notify the department before starting a forest operation. You must do this at least 15 days before starting the work. For helicopter pesticide applications, you may need to do this 30 days before starting the work. Information about the intent to harvest timber will be shared with the Department of Revenue.
       </>
     ),
+      learnMore: 'http://www.oregon.gov/ODF/Working/Pages/FPA.aspx'
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Permit to Use Fire or Power-Driven Machinery (PDM)',
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <>You need to apply for this permit for any operation that uses fire or power-driven machinery.</>
     ),
+      learnMore: 'http://www.oregonlaws.org/ors/477.625'
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Subscriptions and Registrations',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          Subscribe to get information about forest operations. Register to get information about planned helicopter pesticide use within one mile of your home or surface water intake.
       </>
     ),
+      learnMore: 'http://www.oregonlaws.org/ors/477.625'
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({learnMore, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+          <div><a href={learnMore}>Learn More </a></div>
       </div>
     </div>
   );

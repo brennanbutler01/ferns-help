@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8704ea09-1b50-4574-86a4-8600abda3c97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/static/img/odf-high-res.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomepageFeatures/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomepageFeatures/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681754883580</updated>
       <workItem from="1681754886175" duration="2312000" />
-      <workItem from="1681757219798" duration="6966000" />
+      <workItem from="1681757219798" duration="8129000" />
     </task>
     <servers />
   </component>
