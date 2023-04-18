@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ODF FERNS',
-  tagline: 'Electronic forest notifications made easy',
+  tagline: 'Get the answers to any of your FENRS questions here.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ferns.tofu.skin',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -126,6 +126,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],};
+  plugins:[require.resolve("@cmfcmf/docusaurus-search-local")]
+};
 
 module.exports = config;

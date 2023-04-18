@@ -32,11 +32,11 @@ const FeatureList = [
 
 function Feature({learnMore, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--4 margin-bottom--md')} >
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-          <div><a href={learnMore}>Learn More </a></div>
+        <a href={learnMore}>Learn More</a>
       </div>
     </div>
   );
