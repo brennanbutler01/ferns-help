@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ODF FERNS',
-  tagline: 'Get the answers to any of your FENRS questions here.',
+  tagline: 'Get the answers to any of your FERNS questions here.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -88,10 +88,10 @@ const config = {
             items: [
               {
                 label: 'Read Help',
-                to: '/docs/category/help-resources',
+                to: '/category/help-resources',
               },
-              {label: 'System Requirements', to: '/docs/category/system-requirements'},
-              {label: 'Subscription', to: '/docs/category/subscription'}
+              {label: 'System Requirements', to: '/category/system-requirements'},
+              {label: 'Subscription', to: '/category/subscription'}
             ],
           },
           {
