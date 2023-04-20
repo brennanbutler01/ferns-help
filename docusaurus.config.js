@@ -46,7 +46,7 @@ const config = {
       }),
     ],
   ],
-
+  plugins: [require.resolve('docusaurus-lunr-search')],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -127,7 +127,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      plugins: ['@aldridged/docusaurus-plugin-lunr']
     }),
 };
 

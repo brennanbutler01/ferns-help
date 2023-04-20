@@ -7,6 +7,8 @@
     <list default="true" id="8704ea09-1b50-4574-86a4-8600abda3c97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
       <workItem from="1681757219798" duration="14982000" />
       <workItem from="1681918469682" duration="111000" />
       <workItem from="1682003393770" duration="228000" />
-      <workItem from="1682003642128" duration="1720000" />
+      <workItem from="1682003642128" duration="2296000" />
     </task>
     <servers />
   </component>
